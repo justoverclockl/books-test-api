@@ -1,1 +1,3 @@
-GET http://localhost:3030/0886778425
+GET http://localhost:3030/
+#####
+GET http://localhost:3030/scifi/
